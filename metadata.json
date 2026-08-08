@@ -1,0 +1,10 @@
+{
+  "name": "L'AURORA - Cửa Hàng & Phòng Thử Trang Sức Thực Tế Ảo AR",
+  "description": "Cửa hàng trang sức xa xỉ tích hợp công nghệ thực tế ảo AR giúp khách hàng đeo thử hoa tai, dây chuyền, nhẫn, vương miện trực quan thời gian thực trên camera và người mẫu kèm trợ lý AI tư vấn phong cách.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
